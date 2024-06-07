@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ksp upgrade/1.0.0": {
+        "runtime": {
+          "ksp upgrade.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ksp upgrade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
